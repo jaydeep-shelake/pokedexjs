@@ -1,6 +1,6 @@
 # pokedexjs
 <div align="center">
-  <img width="300px" src="https://icons-for-free.com/iconfiles/png/512/pikachu+pokeball+pokemon+icon-1320184857556086253.png"/>
+  <img width="100px" src="https://icons-for-free.com/iconfiles/png/512/pikachu+pokeball+pokemon+icon-1320184857556086253.png"/>
 </div>
 <br>
 
@@ -15,7 +15,7 @@
  
 ## 🚀 Tech and Tools Used
 
-* HTML,CSS and javascrip
+* HTML,CSS and javascript
 * VS code
 * pokeapi
 
