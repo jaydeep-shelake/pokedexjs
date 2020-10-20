@@ -21,5 +21,5 @@
 
 
 ## 📸 Screenshots
-### home page
-<img src="node-dancejs.herokuapp.com_.png" width='400px' height="auto">
+<img src="pokedex.png width="500px" height="auto>
+<img src="full.png" width="700px"height=600px">
