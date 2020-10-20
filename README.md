@@ -21,5 +21,5 @@
 
 
 ## 📸 Screenshots
-<img src="pokedex.png" width='400px' height="auto">
-<img src="full.png" width="700px" height=500px">
+<img src="pokedex.png" width='400px' height="1000px">
+<img src="full.png" width="700px" height=700px">
